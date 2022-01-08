@@ -1,0 +1,15 @@
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\bin\Debug\net6.0\Loop Condition and Convertion.exe
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\bin\Debug\net6.0\Loop Condition and Convertion.deps.json
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\bin\Debug\net6.0\Loop Condition and Convertion.runtimeconfig.json
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\bin\Debug\net6.0\Loop Condition and Convertion.dll
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\bin\Debug\net6.0\ref\Loop Condition and Convertion.dll
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\bin\Debug\net6.0\Loop Condition and Convertion.pdb
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\obj\Debug\net6.0\Loop Condition and Convertion.csproj.AssemblyReference.cache
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\obj\Debug\net6.0\Loop Condition and Convertion.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\obj\Debug\net6.0\Loop Condition and Convertion.AssemblyInfoInputs.cache
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\obj\Debug\net6.0\Loop Condition and Convertion.AssemblyInfo.cs
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\obj\Debug\net6.0\Loop Condition and Convertion.csproj.CoreCompileInputs.cache
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\obj\Debug\net6.0\Loop Condition and Convertion.dll
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\obj\Debug\net6.0\ref\Loop Condition and Convertion.dll
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\obj\Debug\net6.0\Loop Condition and Convertion.pdb
+G:\GitHub\C#-Getting Started with\Loop Condition and Convertion\Loop Condition and Convertion\obj\Debug\net6.0\Loop Condition and Convertion.genruntimeconfig.cache

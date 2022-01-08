@@ -1,8 +1,8 @@
 ﻿namespace HelloWorld
 {
-    class program
+    internal class programBase
     {
-        static void Main(string[] args)
+        static void Main(string[] args, void v)
         {
             Console.WriteLine("Hello World");
             string message = "I am Shakil";
@@ -23,7 +23,6 @@
             //Inpute From User
             Console.WriteLine("Enter a number");
             string msge = Console.ReadLine();
-
             Console.WriteLine(msge);
 
             Console.WriteLine("Enter First Number");
