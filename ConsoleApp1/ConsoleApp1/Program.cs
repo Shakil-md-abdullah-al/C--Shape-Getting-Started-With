@@ -25,6 +25,19 @@ namespace HelloWorld
 
             msgg = "I am Md Abdullah Al Shakil." +Environment.NewLine+ "I am in CSE";
             Console.WriteLine(msgg);
+
+            //Inpute From User
+            Console.WriteLine("Enter a number");
+            string msge=Console.ReadLine();
+            Console.WriteLine(msge);
+
+            Console.WriteLine("Enter First Number");
+            int firstNumber=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Second Number");
+            int secondNumber=Convert.ToInt32(Console.ReadLine());
+            int opt = firstNumber + secondNumber;
+            Console.WriteLine("Result: " + opt);
+
         }
     }
 }
