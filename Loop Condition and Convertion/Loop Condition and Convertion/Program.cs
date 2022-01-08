@@ -56,6 +56,13 @@ namespace ConditionalStatement
                 Console.WriteLine("A");
             else if (average >= 80 && average <= 100)
                 Console.WriteLine("A+");
+
+            //Loops
+            for(int i=0; i < 10;i++)
+            {
+                Console.WriteLine("Hello World");
+            }
+
         }
     }
 }
