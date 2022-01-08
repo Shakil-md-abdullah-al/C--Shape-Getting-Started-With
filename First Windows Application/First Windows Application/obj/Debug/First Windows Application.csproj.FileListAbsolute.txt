@@ -1,0 +1,11 @@
+G:\GitHub\C#-Getting Started with\First Windows Application\First Windows Application\bin\Debug\First Windows Application.exe.config
+G:\GitHub\C#-Getting Started with\First Windows Application\First Windows Application\bin\Debug\First Windows Application.exe
+G:\GitHub\C#-Getting Started with\First Windows Application\First Windows Application\bin\Debug\First Windows Application.pdb
+G:\GitHub\C#-Getting Started with\First Windows Application\First Windows Application\obj\Debug\First Windows Application.csproj.AssemblyReference.cache
+G:\GitHub\C#-Getting Started with\First Windows Application\First Windows Application\obj\Debug\First Windows Application.csproj.SuggestedBindingRedirects.cache
+G:\GitHub\C#-Getting Started with\First Windows Application\First Windows Application\obj\Debug\First_Windows_Application.Properties.Resources.resources
+G:\GitHub\C#-Getting Started with\First Windows Application\First Windows Application\obj\Debug\First Windows Application.csproj.GenerateResource.cache
+G:\GitHub\C#-Getting Started with\First Windows Application\First Windows Application\obj\Debug\First Windows Application.csproj.CoreCompileInputs.cache
+G:\GitHub\C#-Getting Started with\First Windows Application\First Windows Application\obj\Debug\First Windows Application.exe
+G:\GitHub\C#-Getting Started with\First Windows Application\First Windows Application\obj\Debug\First Windows Application.pdb
+G:\GitHub\C#-Getting Started with\First Windows Application\First Windows Application\obj\Debug\First_Windows_Application.Form1.resources

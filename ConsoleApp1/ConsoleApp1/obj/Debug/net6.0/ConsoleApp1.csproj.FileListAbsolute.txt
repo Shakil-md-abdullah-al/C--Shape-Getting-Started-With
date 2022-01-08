@@ -1,0 +1,15 @@
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ref\ConsoleApp1.dll
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+G:\GitHub\C#-Getting Started with\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "166a9d1f-e590-4250-8277-d0883486f119": {
+      "ProjectGuid": "166a9d1f-e590-4250-8277-d0883486f119",
+      "DisplayName": "First Windows Application",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
