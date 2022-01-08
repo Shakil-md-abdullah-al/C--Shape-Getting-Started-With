@@ -1,0 +1,14 @@
+G:\GitHub\C#-Getting Started with\Methode and Debuge\Methode and Debuge\bin\Debug\net6.0\Methode and Debuge.exe
+G:\GitHub\C#-Getting Started with\Methode and Debuge\Methode and Debuge\bin\Debug\net6.0\Methode and Debuge.deps.json
+G:\GitHub\C#-Getting Started with\Methode and Debuge\Methode and Debuge\bin\Debug\net6.0\Methode and Debuge.runtimeconfig.json
+G:\GitHub\C#-Getting Started with\Methode and Debuge\Methode and Debuge\bin\Debug\net6.0\Methode and Debuge.dll
+G:\GitHub\C#-Getting Started with\Methode and Debuge\Methode and Debuge\bin\Debug\net6.0\ref\Methode and Debuge.dll
+G:\GitHub\C#-Getting Started with\Methode and Debuge\Methode and Debuge\bin\Debug\net6.0\Methode and Debuge.pdb
+G:\GitHub\C#-Getting Started with\Methode and Debuge\Methode and Debuge\obj\Debug\net6.0\Methode and Debuge.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitHub\C#-Getting Started with\Methode and Debuge\Methode and Debuge\obj\Debug\net6.0\Methode and Debuge.AssemblyInfoInputs.cache
+G:\GitHub\C#-Getting Started with\Methode and Debuge\Methode and Debuge\obj\Debug\net6.0\Methode and Debuge.AssemblyInfo.cs
+G:\GitHub\C#-Getting Started with\Methode and Debuge\Methode and Debuge\obj\Debug\net6.0\Methode and Debuge.csproj.CoreCompileInputs.cache
+G:\GitHub\C#-Getting Started with\Methode and Debuge\Methode and Debuge\obj\Debug\net6.0\Methode and Debuge.dll
+G:\GitHub\C#-Getting Started with\Methode and Debuge\Methode and Debuge\obj\Debug\net6.0\ref\Methode and Debuge.dll
+G:\GitHub\C#-Getting Started with\Methode and Debuge\Methode and Debuge\obj\Debug\net6.0\Methode and Debuge.pdb
+G:\GitHub\C#-Getting Started with\Methode and Debuge\Methode and Debuge\obj\Debug\net6.0\Methode and Debuge.genruntimeconfig.cache
