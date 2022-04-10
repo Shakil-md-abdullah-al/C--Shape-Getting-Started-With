@@ -28,5 +28,20 @@ namespace imagedatabasetest
             
         }
 
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            byte[] images = null;
+            FileStream stream =new FileStream(imglocation, FileMode.Open, FileAccess.Read);
+            BinaryReader brs=new BinaryReader(stream);
+            images = brs.ReadBytes((int)stream.Length);
+
+            connection.Open();
+            string sqlQuery = "insert into imageTbl(ID,image) Values('"+id.Text+"',@images)";
+            cmd =new SqlCommand(sqlQuery,connection);
+            cmd.Parameters.Add(new SqlParameter("@images", images));
+            int N = cmd.ExecuteNonQuery();
+            connection.Close();
+            MessageBox.Show(N.ToString()+" Data Saved........");
+        }
     }
 }
