@@ -8,10 +8,20 @@
     ".NETCoreApp,Version=v6.0": {
       "imagedatabasetest/1.0.0": {
         "dependencies": {
-          "System.Data.SqlClient": "4.8.3"
+          "Guna.UI2.WinForms": "2.0.3.2",
+          "System.Data.SqlClient": "4.8.3",
+          "VisualBasic.PowerPacks.Vs": "1.0.0"
         },
         "runtime": {
           "imagedatabasetest.dll": {}
+        }
+      },
+      "Guna.UI2.WinForms/2.0.3.2": {
+        "runtime": {
+          "lib/net40/Guna.UI2.dll": {
+            "assemblyVersion": "2.0.3.2",
+            "fileVersion": "2.0.3.2"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/3.1.0": {},
@@ -88,7 +98,15 @@
           "System.Security.Principal.Windows": "4.7.0"
         }
       },
-      "System.Security.Principal.Windows/4.7.0": {}
+      "System.Security.Principal.Windows/4.7.0": {},
+      "VisualBasic.PowerPacks.Vs/1.0.0": {
+        "runtime": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.40219.1"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -96,6 +114,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Guna.UI2.WinForms/2.0.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eemzZE4IrzNrC1Ln6KYVH0r8S8bYWUW0tu7VNXzR6d/WMu0sgTZmrp86r/vIuL1aoPESLMQnycpNbtPv2cjeQA==",
+      "path": "guna.ui2.winforms/2.0.3.2",
+      "hashPath": "guna.ui2.winforms.2.0.3.2.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/3.1.0": {
       "type": "package",
@@ -159,6 +184,13 @@
       "sha512": "sha512-ojD0PX0XhneCsUbAZVKdb7h/70vyYMDYs85lwEI+LngEONe/17A0cFaRFqZU+sOEidcVswYWikYOQ9PPfjlbtQ==",
       "path": "system.security.principal.windows/4.7.0",
       "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
+    },
+    "VisualBasic.PowerPacks.Vs/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IiQWQjCWfPmwR8Q1P1V/z1Et7Mr3QG4RUw+mgXuUgNvseNm06VDEZu8DwlZx9UXw+Uf6E7E/d5wXpGEYJOuG7g==",
+      "path": "visualbasic.powerpacks.vs/1.0.0",
+      "hashPath": "visualbasic.powerpacks.vs.1.0.0.nupkg.sha512"
     }
   }
 }

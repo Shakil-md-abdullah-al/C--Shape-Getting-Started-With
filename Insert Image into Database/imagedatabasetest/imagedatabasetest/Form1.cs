@@ -4,6 +4,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.IO;
+using System.Data;// To include DataSet in our Program
+using System.Drawing;
 
 namespace imagedatabasetest
 {
@@ -42,6 +44,37 @@ namespace imagedatabasetest
             int N = cmd.ExecuteNonQuery();
             connection.Close();
             MessageBox.Show(N.ToString()+" Data Saved........");
+        }
+
+
+
+        private void btnView_Click_1(object sender, EventArgs e)
+        {
+
+            SqlConnection con = new SqlConnection();
+            con.ConnectionString ="data source=DESKTOP-VBIV842\\SQLEXPRESS;database=CheckImageDatabase;integrated security=true";
+
+
+            SqlCommand cmd= new SqlCommand();
+            cmd.Connection = con;
+            cmd.CommandText = "select image from imageTbl where ID='" + vw.Text + "'";
+            SqlDataAdapter DA = new SqlDataAdapter(cmd);
+            DataSet DS =new DataSet();
+            DA.Fill(DS);
+            if(DS.Tables[0].Rows.Count == 0)
+            {
+                MessageBox.Show("No Image on this index");
+
+            }
+            else
+            {
+                MemoryStream ms= new MemoryStream((byte[])DS.Tables[0].Rows[0][0]);
+                pictureBox2.Image=new Bitmap(ms);
+            }
+
+
+
+
         }
     }
 }

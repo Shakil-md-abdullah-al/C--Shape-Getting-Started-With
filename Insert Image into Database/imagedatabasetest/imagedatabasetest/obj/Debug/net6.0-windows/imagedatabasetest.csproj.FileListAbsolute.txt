@@ -22,3 +22,5 @@ G:\GitHub\C#-Getting Started with\Insert Image into Database\imagedatabasetest\i
 G:\GitHub\C#-Getting Started with\Insert Image into Database\imagedatabasetest\imagedatabasetest\obj\Debug\net6.0-windows\imagedatabasetest.pdb
 G:\GitHub\C#-Getting Started with\Insert Image into Database\imagedatabasetest\imagedatabasetest\obj\Debug\net6.0-windows\imagedatabasetest.genruntimeconfig.cache
 G:\GitHub\C#-Getting Started with\Insert Image into Database\imagedatabasetest\imagedatabasetest\obj\Debug\net6.0-windows\ref\imagedatabasetest.dll
+G:\GitHub\C#-Getting Started with\Insert Image into Database\imagedatabasetest\imagedatabasetest\bin\Debug\net6.0-windows\Guna.UI2.dll
+G:\GitHub\C#-Getting Started with\Insert Image into Database\imagedatabasetest\imagedatabasetest\bin\Debug\net6.0-windows\Microsoft.VisualBasic.PowerPacks.Vs.dll

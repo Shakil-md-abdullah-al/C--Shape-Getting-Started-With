@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
+      "Guna.UI2.WinForms/2.0.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Guna.UI2.dll": {}
+        }
+      },
       "Microsoft.NETCore.Platforms/3.1.0": {
         "type": "package",
         "compile": {
@@ -130,10 +139,35 @@
             "rid": "win"
           }
         }
+      },
+      "VisualBasic.PowerPacks.Vs/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "Guna.UI2.WinForms/2.0.3.2": {
+      "sha512": "eemzZE4IrzNrC1Ln6KYVH0r8S8bYWUW0tu7VNXzR6d/WMu0sgTZmrp86r/vIuL1aoPESLMQnycpNbtPv2cjeQA==",
+      "type": "package",
+      "path": "guna.ui2.winforms/2.0.3.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "guna.ui2.winforms.2.0.3.2.nupkg.sha512",
+        "guna.ui2.winforms.nuspec",
+        "icon.png",
+        "lib/net40/Guna.UI2.dll"
+      ]
+    },
     "Microsoft.NETCore.Platforms/3.1.0": {
       "sha512": "z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
       "type": "package",
@@ -446,11 +480,26 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "VisualBasic.PowerPacks.Vs/1.0.0": {
+      "sha512": "IiQWQjCWfPmwR8Q1P1V/z1Et7Mr3QG4RUw+mgXuUgNvseNm06VDEZu8DwlZx9UXw+Uf6E7E/d5wXpGEYJOuG7g==",
+      "type": "package",
+      "path": "visualbasic.powerpacks.vs/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll",
+        "lib/Microsoft.VisualBasic.dll",
+        "visualbasic.powerpacks.vs.1.0.0.nupkg.sha512",
+        "visualbasic.powerpacks.vs.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "System.Data.SqlClient >= 4.8.3"
+      "Guna.UI2.WinForms >= 2.0.3.2",
+      "System.Data.SqlClient >= 4.8.3",
+      "VisualBasic.PowerPacks.Vs >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -492,9 +541,17 @@
       "net6.0-windows7.0": {
         "targetAlias": "net6.0-windows",
         "dependencies": {
+          "Guna.UI2.WinForms": {
+            "target": "Package",
+            "version": "[2.0.3.2, )"
+          },
           "System.Data.SqlClient": {
             "target": "Package",
             "version": "[4.8.3, )"
+          },
+          "VisualBasic.PowerPacks.Vs": {
+            "target": "Package",
+            "version": "[1.0.0, )"
           }
         },
         "imports": [
@@ -518,5 +575,27 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Guna.UI2.WinForms 2.0.3.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Guna.UI2.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'VisualBasic.PowerPacks.Vs 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "VisualBasic.PowerPacks.Vs",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Se68SMZGSMo/VTMKe6YZavSedlm+GIGzF9XHWldgSwl9HyC23n/dQO+Nr+1Nut9q1tNeikfiE7QgEiCC2nXy+g==",
+  "dgSpecHash": "N+Y9r+Uy6j/sN0cqR/h5w78lpia3Vf7TiktBXPc/ex1LsGcImeY3UUOy0zufTaIko1R3zL25jcnUnMTdyZfaVA==",
   "success": true,
   "projectFilePath": "G:\\GitHub\\C#-Getting Started with\\Insert Image into Database\\imagedatabasetest\\imagedatabasetest\\imagedatabasetest.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Shakil\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.2\\guna.ui2.winforms.2.0.3.2.nupkg.sha512",
     "C:\\Users\\Shakil\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Shakil\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Shakil\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
@@ -12,7 +13,29 @@
     "C:\\Users\\Shakil\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Shakil\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
     "C:\\Users\\Shakil\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
-    "C:\\Users\\Shakil\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+    "C:\\Users\\Shakil\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shakil\\.nuget\\packages\\visualbasic.powerpacks.vs\\1.0.0\\visualbasic.powerpacks.vs.1.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Guna.UI2.WinForms 2.0.3.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Guna.UI2.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'VisualBasic.PowerPacks.Vs 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "VisualBasic.PowerPacks.Vs",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }
