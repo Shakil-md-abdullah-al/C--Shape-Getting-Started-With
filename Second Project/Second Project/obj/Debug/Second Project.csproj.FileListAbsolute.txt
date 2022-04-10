@@ -1,0 +1,12 @@
+G:\GitHub\C#-Getting Started with\Second Project\Second Project\bin\Debug\Second Project.exe.config
+G:\GitHub\C#-Getting Started with\Second Project\Second Project\bin\Debug\Second Project.exe
+G:\GitHub\C#-Getting Started with\Second Project\Second Project\bin\Debug\Second Project.pdb
+G:\GitHub\C#-Getting Started with\Second Project\Second Project\obj\Debug\Second Project.csproj.AssemblyReference.cache
+G:\GitHub\C#-Getting Started with\Second Project\Second Project\obj\Debug\Second Project.csproj.SuggestedBindingRedirects.cache
+G:\GitHub\C#-Getting Started with\Second Project\Second Project\obj\Debug\Second_Project.Form1.resources
+G:\GitHub\C#-Getting Started with\Second Project\Second Project\obj\Debug\Second_Project.Properties.Resources.resources
+G:\GitHub\C#-Getting Started with\Second Project\Second Project\obj\Debug\Second Project.csproj.GenerateResource.cache
+G:\GitHub\C#-Getting Started with\Second Project\Second Project\obj\Debug\Second Project.csproj.CoreCompileInputs.cache
+G:\GitHub\C#-Getting Started with\Second Project\Second Project\obj\Debug\Second Project.exe
+G:\GitHub\C#-Getting Started with\Second Project\Second Project\obj\Debug\Second Project.pdb
+G:\GitHub\C#-Getting Started with\Second Project\Second Project\obj\Debug\Second_Project.Form2.resources

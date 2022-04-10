@@ -1,0 +1,11 @@
+G:\GitHub\C#-Getting Started with\Pharmachy\bin\Debug\Pharmachy.exe.config
+G:\GitHub\C#-Getting Started with\Pharmachy\bin\Debug\Pharmachy.exe
+G:\GitHub\C#-Getting Started with\Pharmachy\bin\Debug\Pharmachy.pdb
+G:\GitHub\C#-Getting Started with\Pharmachy\obj\Debug\Pharmachy.csproj.SuggestedBindingRedirects.cache
+G:\GitHub\C#-Getting Started with\Pharmachy\obj\Debug\Pharmachy.Login_Page.resources
+G:\GitHub\C#-Getting Started with\Pharmachy\obj\Debug\Pharmachy.Properties.Resources.resources
+G:\GitHub\C#-Getting Started with\Pharmachy\obj\Debug\Pharmachy.csproj.GenerateResource.cache
+G:\GitHub\C#-Getting Started with\Pharmachy\obj\Debug\Pharmachy.csproj.CoreCompileInputs.cache
+G:\GitHub\C#-Getting Started with\Pharmachy\obj\Debug\Pharmachy.exe
+G:\GitHub\C#-Getting Started with\Pharmachy\obj\Debug\Pharmachy.pdb
+G:\GitHub\C#-Getting Started with\Pharmachy\obj\Debug\Pharmachy.csproj.AssemblyReference.cache

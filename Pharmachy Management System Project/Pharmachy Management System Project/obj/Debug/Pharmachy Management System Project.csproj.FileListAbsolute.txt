@@ -1,0 +1,31 @@
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\obj\Debug\Pharmachy Management System Project.csproj.AssemblyReference.cache
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\obj\Debug\Pharmachy Management System Project.csproj.SuggestedBindingRedirects.cache
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\obj\Debug\Pharmachy_Management_System_Project.FormMainMenu.resources
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\obj\Debug\Pharmachy_Management_System_Project.Properties.Resources.resources
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\obj\Debug\Pharmachy Management System Project.csproj.GenerateResource.cache
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\obj\Debug\Pharmachy Management System Project.csproj.CoreCompileInputs.cache
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\Pharmachy Management System Project.exe.config
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\Pharmachy Management System Project.exe
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\Pharmachy Management System Project.pdb
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\obj\Debug\Pharmachy Management System Project.exe
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\obj\Debug\Pharmachy Management System Project.pdb
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\Newtonsoft.Json.dll
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\NuGet.Common.dll
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\NuGet.Configuration.dll
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\NuGet.Frameworks.dll
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\NuGet.Packaging.dll
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\NuGet.Protocol.dll
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\NuGet.Versioning.dll
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\Newtonsoft.Json.xml
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\NuGet.Common.xml
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\NuGet.Configuration.xml
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\NuGet.Frameworks.xml
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\NuGet.Packaging.xml
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\NuGet.Protocol.xml
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\bin\Debug\NuGet.Versioning.xml
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\obj\Debug\Pharmachy_Management_System_Project.Forms.FormSeller.resources
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\obj\Debug\Pharmachy Management System Project.csproj.CopyComplete
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\obj\Debug\Pharmachy_Management_System_Project.Medicines.resources
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\obj\Debug\Pharmachy_Management_System_Project.Manufacturer.resources
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\obj\Debug\Pharmachy_Management_System_Project.Customer.resources
+G:\GitHub\C#-Getting Started with\Pharmachy Management System Project\Pharmachy Management System Project\obj\Debug\Pharmachy_Management_System_Project.Seller.resources

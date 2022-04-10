@@ -1,0 +1,11 @@
+G:\GitHub\C#-Getting Started with\Test001\Test001\bin\Debug\Test001.exe.config
+G:\GitHub\C#-Getting Started with\Test001\Test001\bin\Debug\Test001.exe
+G:\GitHub\C#-Getting Started with\Test001\Test001\bin\Debug\Test001.pdb
+G:\GitHub\C#-Getting Started with\Test001\Test001\obj\Debug\Test001.csproj.AssemblyReference.cache
+G:\GitHub\C#-Getting Started with\Test001\Test001\obj\Debug\Test001.csproj.SuggestedBindingRedirects.cache
+G:\GitHub\C#-Getting Started with\Test001\Test001\obj\Debug\Test001.Form1.resources
+G:\GitHub\C#-Getting Started with\Test001\Test001\obj\Debug\Test001.Properties.Resources.resources
+G:\GitHub\C#-Getting Started with\Test001\Test001\obj\Debug\Test001.csproj.GenerateResource.cache
+G:\GitHub\C#-Getting Started with\Test001\Test001\obj\Debug\Test001.csproj.CoreCompileInputs.cache
+G:\GitHub\C#-Getting Started with\Test001\Test001\obj\Debug\Test001.exe
+G:\GitHub\C#-Getting Started with\Test001\Test001\obj\Debug\Test001.pdb

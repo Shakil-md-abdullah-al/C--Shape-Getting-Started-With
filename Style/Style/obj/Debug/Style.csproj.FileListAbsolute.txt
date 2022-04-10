@@ -1,0 +1,11 @@
+G:\GitHub\C#-Getting Started with\Style\Style\obj\Debug\Style.csproj.AssemblyReference.cache
+G:\GitHub\C#-Getting Started with\Style\Style\obj\Debug\Style.csproj.SuggestedBindingRedirects.cache
+G:\GitHub\C#-Getting Started with\Style\Style\obj\Debug\Style.Form1.resources
+G:\GitHub\C#-Getting Started with\Style\Style\obj\Debug\Style.Properties.Resources.resources
+G:\GitHub\C#-Getting Started with\Style\Style\obj\Debug\Style.csproj.GenerateResource.cache
+G:\GitHub\C#-Getting Started with\Style\Style\obj\Debug\Style.csproj.CoreCompileInputs.cache
+G:\GitHub\C#-Getting Started with\Style\Style\bin\Debug\Style.exe.config
+G:\GitHub\C#-Getting Started with\Style\Style\bin\Debug\Style.exe
+G:\GitHub\C#-Getting Started with\Style\Style\bin\Debug\Style.pdb
+G:\GitHub\C#-Getting Started with\Style\Style\obj\Debug\Style.exe
+G:\GitHub\C#-Getting Started with\Style\Style\obj\Debug\Style.pdb

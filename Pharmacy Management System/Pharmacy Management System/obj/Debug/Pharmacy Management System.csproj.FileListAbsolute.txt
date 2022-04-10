@@ -1,0 +1,11 @@
+G:\GitHub\C#-Getting Started with\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+G:\GitHub\C#-Getting Started with\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+G:\GitHub\C#-Getting Started with\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+G:\GitHub\C#-Getting Started with\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+G:\GitHub\C#-Getting Started with\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.SuggestedBindingRedirects.cache
+G:\GitHub\C#-Getting Started with\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+G:\GitHub\C#-Getting Started with\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+G:\GitHub\C#-Getting Started with\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+G:\GitHub\C#-Getting Started with\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+G:\GitHub\C#-Getting Started with\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+G:\GitHub\C#-Getting Started with\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
